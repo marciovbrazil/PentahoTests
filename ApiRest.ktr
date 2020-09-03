@@ -435,7 +435,7 @@
   </info>
   <notepads>
     <notepad>
-      <note>Busca arquivos da COVID-19 via api rest.
+      <note>Busca arquivos da COVID-19 via api Rest.
 https://api.github.com/repos/CSSEGISandData/COVID-19/contents/csse_covid_19_data/csse_covid_19_daily_reports/</note>
       <xloc>96</xloc>
       <yloc>160</yloc>
